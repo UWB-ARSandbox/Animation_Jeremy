@@ -1,0 +1,3 @@
+[submodule "Assets/ASL"]
+	path = Assets/ASL
+	url = https://github.com/UWB-ARSandbox/ASL
